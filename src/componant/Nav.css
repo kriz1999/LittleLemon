@@ -1,0 +1,69 @@
+.AppBar{
+  margin-bottom: 50px !important;
+
+}
+.NavContainer{
+  background-color:  rgb(227, 236, 193);
+  
+  
+  width: 100%;
+ 
+}
+.navApp{
+    background-color: rgb(227, 236, 193);
+    padding-top: 5px;
+    
+ 
+  }
+  
+
+
+  .menu{
+  position: absolute;
+  right: 5%; 
+
+  }
+  .btn-nav{
+    display: flex;
+    justify-content: flex-end;
+   }
+   .btn-nav2{
+    color: rgb(80,98,52) !important;
+    font-size: large !important;
+   }
+
+   .btn-nav2:hover{
+
+  background-color: rgb(80,98,52)!important;
+  color: antiquewhite !important;
+   }
+
+
+
+   .btn-nav3{
+    display: block !important;
+    color: rgb(80,98,52) !important;
+    font-size: large !important;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+ 
+
+   }
+
+   .open{
+  
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(227, 236, 193);
+  
+    margin-top: -9px;
+    margin-bottom: -7px;
+   }
+   .btn-nav3:hover{
+
+    background-color: rgb(80,98,52)!important;
+    color: antiquewhite !important;
+     }
+  

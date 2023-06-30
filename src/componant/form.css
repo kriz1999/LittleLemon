@@ -1,0 +1,78 @@
+.formapp{
+    background-color: rgb(66, 89, 30);   
+   border-top-left-radius: 30%;
+   border-bottom-right-radius: 30%;
+   margin: 5% !important;
+    width: 90% !important;
+    padding-bottom: 5%;
+    box-shadow: 5px 5px 10px 6px #9e9e53 !important;
+    margin-top: 80px !important;
+}
+.formGrid{
+    margin: 40px 5px 5px !important;
+
+}
+.formInput{
+    margin-bottom: 3% !important;
+    background-color:rgb(206, 222, 151);
+}
+.formInputSelect{
+    background-color: rgb(206, 222, 151);
+    
+}
+.formBtn{
+    margin-top: 5% !important;
+   color: rgb(64, 61, 48);
+    width: 10%px;
+    border: 1px solid ;
+    background-color: rgb(206, 222, 151);
+
+}
+.formGrid2{
+    width: 63%;
+}
+.reservation{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(206, 222, 151);
+    padding: 5%;
+    margin-left: -10%;
+    margin-bottom: 10%;
+}
+.respons1{ color: rgb(1, 114, 1);
+    font-size: large;
+   font-weight: 700; 
+}
+.respons2 { color: rgb(35, 77, 35);
+    font-size: small;
+   font-weight: 500; 
+}
+.respons3 { color: rgb(35, 77, 35);
+    font-size: small;
+   font-weight: 500; 
+}
+
+.formappLogin{
+    background-color: rgb(66, 89, 30);   
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    margin: 5% !important;
+     width: 90% !important;
+     padding-bottom: 5%;
+     box-shadow: 5px 5px 10px 6px #9e9e53 !important;
+     margin-top: 80px !important; 
+
+
+}
+.spanOrder{
+    border-bottom: 1px solid;
+}
+@media (min-width: 768px){
+    .formappLogin{
+      
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
