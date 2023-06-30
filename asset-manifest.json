@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/LittleLemon/static/css/main.017a29aa.css",
-    "main.js": "/LittleLemon/static/js/main.0e56bb00.js",
+    "main.css": "/LittleLemon/static/css/main.feab5714.css",
+    "main.js": "/LittleLemon/static/js/main.31042912.js",
     "static/js/787.28cb0dcd.chunk.js": "/LittleLemon/static/js/787.28cb0dcd.chunk.js",
+    "static/media/restaurant chef B.jpg": "/LittleLemon/static/media/restaurant chef B.82635069de23ff280c7a.jpg",
+    "static/media/restaurant.jpg": "/LittleLemon/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/greek salad.jpg": "/LittleLemon/static/media/greek salad.631deac74499c83d477f.jpg",
+    "static/media/restauranfood.jpg": "/LittleLemon/static/media/restauranfood.e95094ab4b8bd74ac1af.jpg",
+    "static/media/Raw_Lemon_Cake.jpg": "/LittleLemon/static/media/Raw_Lemon_Cake.3a938190f45f327d99cb.jpg",
+    "static/media/Bruschetta.jpg": "/LittleLemon/static/media/Bruschetta.0c1b548ed3c5119735f2.jpg",
     "static/media/logo.svg": "/LittleLemon/static/media/logo.f72c913c48c5334f78f2c336ec36f22b.svg",
+    "static/media/joy.jpg": "/LittleLemon/static/media/joy.bb56c6a5716aff343c1e.jpg",
+    "static/media/lisa.jpg": "/LittleLemon/static/media/lisa.390a9b55b59f47293549.jpg",
+    "static/media/patrick.jpg": "/LittleLemon/static/media/patrick.7ea989971479a6eea5a1.jpg",
+    "static/media/amanda.jpg": "/LittleLemon/static/media/amanda.7db7ccd67697d0d8719c.jpg",
     "index.html": "/LittleLemon/index.html",
-    "main.017a29aa.css.map": "/LittleLemon/static/css/main.017a29aa.css.map",
-    "main.0e56bb00.js.map": "/LittleLemon/static/js/main.0e56bb00.js.map",
+    "main.feab5714.css.map": "/LittleLemon/static/css/main.feab5714.css.map",
+    "main.31042912.js.map": "/LittleLemon/static/js/main.31042912.js.map",
     "787.28cb0dcd.chunk.js.map": "/LittleLemon/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.017a29aa.css",
-    "static/js/main.0e56bb00.js"
+    "static/css/main.feab5714.css",
+    "static/js/main.31042912.js"
   ]
 }
